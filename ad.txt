@@ -681,6 +681,8 @@
 127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 cc.map.qq.com
 127.0.0.1 aegis.qq.com
+127.0.0.1 kde.qq.com
+127.0.0.1 report.nfa.qq.com
 
 #pkg=alibaba.com;阿里广告服务
 127.0.0.1 adash.man.aliyuncs.com
